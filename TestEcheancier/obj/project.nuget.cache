@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+EwA7s+WNcZP1PFMhIcm1+kPvt87uwWvrM3HCs9efyIS0JSzQ6HspkgwDOJZmT7pn7oEqxfPwzuj2V7WCDl3uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ass\\Source\\Repos\\Test-BackEnd\\TestEcheancier\\TestEcheancier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ass\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
